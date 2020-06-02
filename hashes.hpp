@@ -9,6 +9,7 @@
 
 #pragma once
 
+#include <climits>
 #include <algorithm>
 #include <cstdint>
 #include <vector>
